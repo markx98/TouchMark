@@ -3,7 +3,7 @@ import pyautogui
 import time
 
 def touch():
-    for vizualizer in range(3, -1, -1):
+    for vizualizer in range(5, -1, -1):
         print(vizualizer, end=' ')
         time.sleep(0.5)
         timescreen['text'] = vizualizer
