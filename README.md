@@ -1,5 +1,3 @@
-Aqui está o README.md atualizado com o novo nome:
-
 # TouchMark
 
 ## Table of Contents
