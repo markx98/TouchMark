@@ -49,14 +49,17 @@ The TouchMark tool allows users to mark specific coordinates on their screen. Th
    The executable file will be located in the `dist` folder as `script.exe`.
 
 ## Usage
-1. Run the script:
-   ```bash
-   python script.py
-   ```
-   Alternatively, you can click the executable file located in the `dist` folder.
+1. **Run the script**:
+   - To run the script directly, use:
+     ```bash
+     python script.py
+     ```
+   - Alternatively, you can click the executable file located in the `dist` folder.
 
-2. Mark coordinates:
+2. **Mark coordinates**:
    Click the "Touch" button. After 5 seconds, the coordinates of the current mouse cursor position will be displayed.
+
+   If you just want to use the program without setting up the environment or creating an executable, you can download the pre-built executable (`script.exe`) and run it directly.
 
 ## Project Structure
 ```bash
@@ -72,7 +75,7 @@ TouchMark/
 ```
 
 ## Notes
-- Ensure you have Python installed on your system.
+- Ensure you have Python installed on your system if you choose to run the script directly.
 - Always activate the virtual environment before running the script to ensure all dependencies are properly managed.
 
 ## License
